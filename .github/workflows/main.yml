@@ -3,7 +3,7 @@ name: SNHU Syllabi Update
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   deploy:
